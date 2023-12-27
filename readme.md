@@ -25,4 +25,4 @@ Các thuộc tính bao gồm:
 Tập dữ liệu **COVID News Articles (2020 - 2022)** được lấy từ trang ***[Kaggle](https://www.kaggle.com/datasets/timmayer/covid-news-articles-2020-2022)***, nói về các bài báo trong thời gian đại dịch Corona bùng phát. Tập dữ liệu bao gồm 3 cột: title, content và category.
 - **title**: Tiêu đề của bài viết tin tức
 - **content**: nội dung chính bài viết
-- **category**: biểu thị bối cảnh tổng thể của bài báo. ***
+- **category**: biểu thị bối cảnh tổng thể của bài báo.
