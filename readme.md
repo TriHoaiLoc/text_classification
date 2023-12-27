@@ -1,4 +1,4 @@
-Đề tài: ***Tìm hiểu bài toán phân loại văn bản chủ đề sử dụng mô hình LSTM***
+<h1> Đề tài: ***Tìm hiểu bài toán phân loại văn bản chủ đề sử dụng mô hình LSTM*** </h1>
 Tập dữ liệu:
 Tập dữ liệu **Consumer Complaint Database** được cung cấp bởi ***[Kaggle](https://www.kaggle.com/datasets/selener/consumer-complaint-database)***. Tập dữ liệu này là những khiếu nại trong thế giới thực nhận được về các sản phẩm và dịch vụ tài chính. Tập dữ liệu được thu thập từ đầu tháng 12 năm 2011 đến đầu tháng 11 năm 2019 với hơn 1,4 triệu quan sát và 18 thuộc tính.
 Các thuộc tính bao gồm:
